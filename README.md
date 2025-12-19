@@ -46,11 +46,11 @@ Users can submit the form without backend setup, and form data is handled secure
 ---
 📸 Screenshots  
 ![Home Page](Screenshots/SS1.png)
-![Home Page](screenshots/SS2.png)
-![Home Page](screenshots/SS3.png)
-![Home Page](screenshots/SS4.png)
-![Home Page](screenshots/SS5.png)
-![Home Page](screenshots/SS6.png)
+![Home Page](Screenshots/SS2.png)
+![Home Page](Screenshots/SS3.png)
+![Home Page](Screenshots/SS4.png)
+![Home Page](Screenshots/SS5.png)
+![Home Page](Screenshots/SS6.png)
 ---
 
 ✅ Outcome  
